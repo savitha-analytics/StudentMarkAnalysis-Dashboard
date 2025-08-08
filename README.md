@@ -33,9 +33,10 @@ This project presents a comprehensive **Student Mark Analysis Dashboard** design
 
 
 ## 📁 File Structure
--📁 student-mark-dashboard/
--├── Screenshot 2025-07-26 175329.png
--└── README.md
+
+📁 student-mark-dashboard/
+├── Screenshot 2025-07-26 175329.png
+└── README.md
 
 
 ## 🛠️ Technologies Used
